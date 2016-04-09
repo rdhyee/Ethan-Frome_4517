@@ -1,0 +1,48 @@
+_repo: Ethan-Frome_4517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: "Ethan Frome is a novel published in 1911 by the Pulitzer Prize-winning\
+  \ American author Edith Wharton. It is set in the fictitious town of Starkfield,\
+  \ Massachusetts. The novel was adapted into a film, Ethan Frome, in 1993.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4517'
+  wikidata: Q5402934
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Accident victims -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Rural poor -- Fiction'
+- GITenberg
+title: Ethan Frome
+url: http://www.gutenberg.org/ebooks/4517
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%AB%D8%A7%D9%86_%D9%81%D8%B1%D9%88%D9%85
+- https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%9D%A6%C2%B7%E5%BC%97%E6%B4%9B%E7%BE%8E
+- https://cs.wikipedia.org/wiki/Ethan_Frome
+- https://es.wikipedia.org/wiki/Ethan_Frome
+- https://da.wikipedia.org/wiki/Ethan_Frome
+- https://sr.wikipedia.org/wiki/%D0%98%D1%82%D0%B0%D0%BD_%D0%A4%D1%80%D0%BE%D0%BC
+- https://en.wikipedia.org/wiki/Ethan_Frome
+- https://ca.wikipedia.org/wiki/Ethan_Frome
